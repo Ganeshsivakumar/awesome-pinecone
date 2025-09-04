@@ -9,6 +9,7 @@ Feel free to improve this list by [contributing](CONTRIBUTING.md)!
 - [Sample Notebooks](https://docs.pinecone.io/examples/notebooks) - Colab notebook walkthroughs
 - [Sample Code](https://docs.pinecone.io/examples/sample-apps) - Sample applications
 - [Architecture](https://docs.pinecone.io/guides/get-started/database-architecture) - Explanation of Pinecone architecture
+- [Release Notes](https://docs.pinecone.io/release-notes/)
 
 ### Articles
 - [What is a Vector Database?](https://www.pinecone.io/learn/vector-database/)
@@ -18,7 +19,8 @@ Feel free to improve this list by [contributing](CONTRIBUTING.md)!
 - [Teaching Your AI to Read: A Guide to Scraping, RAG, and Smart Data Insights](https://hackernoon.com/teaching-your-ai-to-read-a-guide-to-scraping-rag-and-smart-data-insights)
 - [Building an AI-Powered Discord Bot with Railway and Pinecone](https://blog.greenflux.us/building-an-ai-powered-discord-bot-with-railway-and-pinecone/)
 - [Full RAG Chatbot in Slack](https://medium.com/@progeorgek/full-rag-chatbot-in-slack-623990db3a3b)
-
+- [Populate Pinecone from a website using n8n](https://docs.n8n.io/advanced-ai/examples/vector-store-website/)
+- [5 Ways to Automate Pinecone with Zapier](https://zapier.com/blog/automate-pinecone/)
 
 ### Videos
 - [Getting Started with Pinecone](https://www.youtube.com/watch?v=H6kCi7esgw0) - Walkthrough of Quickstart notebook
@@ -28,6 +30,10 @@ Feel free to improve this list by [contributing](CONTRIBUTING.md)!
 - [Multi-Modal Semantic Search Starter Kit](https://x.com/itstomohiro/status/1937914182193541351)
 - [RAG Upload Pipeline](https://www.linkedin.com/posts/madelineosman_friday-show-tell-building-a-custom-rag-ugcPost-7357069914320326657-484b/)
 - [Hybrid RAG: Mastering Context By Combining GraphRAG and VectorRAG](https://www.youtube.com/watch?v=Xb_sIwlqZ0k) - Combining GraphRAG and VectorRAG using LangGraph, neo4j, and Pinecone
+
+### Podcasts
+- [Databases in Higher Dimensions](https://open.spotify.com/episode/3wexyIhxZuRCiV7gZovHh1) - Jack Pertschuk, Principal Engineer at Pinecone on Talking Serverless
+- [AI, Ambition, and Innovation](https://open.spotify.com/episode/41KAUsK38UH5Ep49ZcG3xU) - Edo Liberty on Inside the ICE House
 
 ### Research
 - [Efficient Constant-Space Multi-Vector Retrieval](https://www.pinecone.io/research/efficient-constant-space-multi-vector-retrieval/)
@@ -54,6 +60,9 @@ Feel free to improve this list by [contributing](CONTRIBUTING.md)!
 - [Pinecone Developer MCP](https://github.com/pinecone-io/pinecone-mcp)
 
 ### Low-Code
+- [Zapier](https://help.zapier.com/hc/en-us/articles/38950923151117-How-to-get-started-with-Pinecone-on-Zapier)
+- [n8n Documentation](https://docs.n8n.io/integrations/builtin/cluster-nodes/root-nodes/n8n-nodes-langchain.vectorstorepinecone/)
+- [n8n Templates](https://n8n.io/integrations/pinecone-vector-store/)
 
 ### Shell
 - [Official Pinecone CLI](https://github.com/pinecone-io/cli)
