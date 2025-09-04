@@ -21,6 +21,7 @@ Feel free to improve this list by [contributing](CONTRIBUTING.md)!
 - [Full RAG Chatbot in Slack](https://medium.com/@progeorgek/full-rag-chatbot-in-slack-623990db3a3b)
 - [Populate Pinecone from a website using n8n](https://docs.n8n.io/advanced-ai/examples/vector-store-website/)
 - [5 Ways to Automate Pinecone with Zapier](https://zapier.com/blog/automate-pinecone/)
+- [AI Assistants with Document Retrieval (RAG) Using Pinecone](https://community.appsmith.com/content/blog/ai-assistants-document-retrieval-rag-using-pinecone)
 
 ### Videos
 - [Getting Started with Pinecone](https://www.youtube.com/watch?v=H6kCi7esgw0) - Walkthrough of Quickstart notebook
