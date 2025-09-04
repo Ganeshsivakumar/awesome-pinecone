@@ -6,7 +6,7 @@ Please ensure your pull request adheres to the following guidelines:
 
 - Make an individual pull request for each suggestion.
 - Use the following format: `[Resource Name](link) - Short description`
-- Use [title-casing](http://titlecapitalization.com) (AP style).
+- Use [title-casing](https://en.wikipedia.org/wiki/Title_case) (AP style).
 - Keep descriptions short and simple, but descriptive.
 - Start the description with a capital and end with a full stop/period.
 - Link additions should be added in alphabetical order to the relevant category.
