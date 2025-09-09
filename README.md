@@ -67,3 +67,6 @@ Feel free to improve this list by [contributing](CONTRIBUTING.md)!
 
 ### Shell
 - [Official Pinecone CLI](https://github.com/pinecone-io/cli)
+
+### Misc
+- [Chonkie](https://docs.chonkie.ai/python-sdk/handshakes/pinecone-handshake) - Chunking library integration with Pinecone
