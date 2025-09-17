@@ -60,6 +60,9 @@ Feel free to improve this list by [contributing](CONTRIBUTING.md)!
 - [Pinecone Assistant MCP](https://github.com/pinecone-io/assistant-mcp)
 - [Pinecone Developer MCP](https://github.com/pinecone-io/pinecone-mcp)
 
+### Data Streaming
+- [Kafka-To-Pinecone](https://ganeshsivakumar.github.io/langchain-beam/docs/templates/kafka-to-pinecone/) - A data streaming pipeline to consume real-time messages from kafka topic, generate embeddings using OpenAI and upsert vectors into Pinecone index. To support AI agents and RAG applications that continuously require fresh data. 
+
 ### Low-Code
 - [Zapier](https://help.zapier.com/hc/en-us/articles/38950923151117-How-to-get-started-with-Pinecone-on-Zapier)
 - [n8n Documentation](https://docs.n8n.io/integrations/builtin/cluster-nodes/root-nodes/n8n-nodes-langchain.vectorstorepinecone/)
